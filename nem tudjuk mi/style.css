@@ -1,0 +1,30 @@
+body{
+background-image: url('uj.jpg');
+color: red;
+padding: 20px ;
+margin: 20px auto;
+width: 70%;
+border: 3px black solid;
+}
+h1{
+	color: yellow;
+	font-weight: normal;
+}
+p{
+	border: 1px magenta dotted; 
+	color: blue;
+}
+#elsosor{
+	text-ident 20px;
+	color: brown;
+}
+	#tomor{
+		list-style-type: square;
+	}
+	#ures{
+		list-style-type: circle;
+	}
+	#negyzet{
+	list-style-type: block;
+	}
+		
